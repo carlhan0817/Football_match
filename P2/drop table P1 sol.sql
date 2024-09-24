@@ -1,0 +1,16 @@
+DROP TABLE SeatSelection;
+DROP TABLE PurCat;
+DROP TABLE Purchase;
+DROP TABLE Customer;
+DROP TABLE SeatCat;
+DROP TABLE Seat;
+DROP TABLE Category;
+DROP TABLE Stadium;
+DROP TABLE Goals;
+DROP TABLE RefereeMatch;
+DROP TABLE PlayerinMatch;
+DROP TABLE Match;
+DROP TABLE Referee;
+DROP TABLE Coach;
+DROP TABLE Player;
+DROP TABLE Team;
